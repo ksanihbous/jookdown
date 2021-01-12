@@ -43,10 +43,10 @@ if(!$_GET['id']){
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Donlod Lagu Ori Disini Coeg">
+    <meta name="description" content="Donlod Lagu Ori By Axa Xyz">
     <meta name="author" content="Anon">
-    <link rel="icon" href="assets/images/favicon.ico">
-    <title><?=$name?> - Donlod Lagu Gratis</title>
+    <link rel="icon" href="assets/images/avatar.ico">
+    <title><?=$name?> - Donlod Lagu Gratis By Axa Xyz</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		body {
@@ -67,7 +67,7 @@ if(!$_GET['id']){
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-		  <a href="#" class="navbar-brand">DonlodLagoe</a>        </div>
+		  <a href="#" class="navbar-brand">Download Lagu</a>        </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php"><i class="glyphicon glyphicon-home"></i> Index</a></li>
@@ -78,7 +78,7 @@ if(!$_GET['id']){
     <div class="container">                    
             <div class="panel panel-info" >
                     <div class="panel-heading">
-                        <div class="panel-title"><?=$name?> - DunludLagu Gratis</div>
+                        <div class="panel-title"><?=$name?> - Download Gratis</div>
                     </div>    
                     <div class="panel-body">
 						<div class="text-center">
@@ -94,6 +94,7 @@ if(!$_GET['id']){
 						Playtime: <b><?=gmdate('i:s', $json->minterval)?></b><br>
 						MP3 320kbps(Original Quality): <a href="mp3.php?id=<?=$_GET['id']?>"><b>Mirror Download</b></a><br>
 						M4A 100kbps+(TV Quality): <a href="m4a.php?id=<?=$_GET['id']?>"><b>Mirror Download</b></a><br><hr>
+						Creator Web: <b>Axa Xyz</b><br>
 						<pre><?=$ly?></pre>
 						<center>
 <a href="lyric.php?id=<?=$_GET['id']?>" style="text-decoration:none;"><b>Download Lyric</b></a><br><br>
