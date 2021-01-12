@@ -98,6 +98,7 @@ if(!$_GET['id']){
 						<pre><?=$ly?></pre>
 						<center>
 <a href="lyric.php?id=<?=$_GET['id']?>" style="text-decoration:none;"><b>Download Lyric</b></a><br><br>
+						<center>Ada Bug? DM <a href="https://www.instagram.com/axaaxyz_01">disini</b></a><br><br>
 </center>
 </div>                     
                     </div>  
