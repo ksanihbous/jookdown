@@ -43,7 +43,7 @@
 					<form method="post" id="searchform" action="websearch.php">
 						<p><label>Cari Lagu Disini</label></p>
                          <div style="margin-bottom: 20px" class="input-group">
-                                <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
+                                <span class="input-group-addon"><i class="glyphicon glyphicon-search"></i></span>
 								<input type="text" name="q" id="q" placeholder="Cari lagu anda di sini" class="form-control" required="required">
                           </div>
                        <div style="margin-top:20px" class="form-group">
