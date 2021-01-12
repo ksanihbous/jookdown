@@ -7,7 +7,7 @@
     <meta name="description" content="Download Lagu Gratis - Axa Xyz">
     <meta name="author" content="Axa Xyz">
     <link rel="icon" href="assets/images/avatar.jpg">
-    <title>Download Lagu Gratis By Axa Xyz</title>
+    <title>Download Lagu Gratis - Axa Xyz</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		body {
