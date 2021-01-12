@@ -94,7 +94,7 @@ if(!$_GET['id']){
 						Playtime: <b><?=gmdate('i:s', $json->minterval)?></b><br>
 						MP3 320kbps(Original Quality): <a href="mp3.php?id=<?=$_GET['id']?>"><b>Mirror Download</b></a><br>
 						M4A 100kbps+(TV Quality): <a href="m4a.php?id=<?=$_GET['id']?>"><b>Mirror Download</b></a><br><hr>
-						Creator Web: <b>Axa Xyz</b><br>
+						© Copyright 2021 Made with  by <b>Axa Xyz<a href="https://www.instagram.com/axaaxyz_01"></b><br>
 						<pre><?=$ly?></pre>
 						<center>
 <a href="lyric.php?id=<?=$_GET['id']?>" style="text-decoration:none;"><b>Download Lyric</b></a><br><br>
