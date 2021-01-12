@@ -47,6 +47,7 @@
                        <div style="margin-top:20px" class="form-group">
                              <button id="btn-login" type="submit" href="#" class="form-control btn btn-info">Cari Lagu Anda!</button>
                        </div><hr><nav><ul class="pager" id="type" style="display:none;"><li><a id="single" href="#">Single</a></li><li><a id="artis" href="#">Artis</a></li><li><a id="album" href="#">Album</a></li></ul></nav><div id="salsakp"><i>DownloadLagu</i> adalah layanan download lagu yang disediakan secara gratis oleh Axa Xyz untuk anda.Kami menyediakan lagu lagu original disini dengan bit rate sangat tinggi(320kpbs) jadi anda dapat mendengarkan lagunya dengan lancar tanpa takut kualitas musiknya memburuk ketika anda mengeraskan volumenya.Ada juga kualitas <i>TV Size</i> dengan bit rate normal(100kbps) dengan ukuran file lebih kecil dan sangat cocok bagi anda yang mendengarkan musik dengan volume sedang.Situs kami juga bebas dari iklan yang membuat anda semakin nyaman ketika menggunakannya</div><nav id="pagination" class="text-center" style="display:none;">
+                       <center>Copyright © 2021 Made with  by <a href="https://www.instagram.com/axaaxyz_01">Axa Xyz</b></a><br><br>
   <ul class="pagination">
     <li id="btn1" class="active" style="visibility:hidden;"><a href="#">1 <span class="sr-only">(current)</span></a></li>
     <li id="btn2" style="visibility:hidden;"><a href="#">2</a></li>
