@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Download Lagu Ori Disini Coeg">
-    <meta name="author" content="Anon">
-    <link rel="icon" href="assets/images/favicon.ico">
-    <title>Download Lagu Gratis</title>
+    <meta name="description" content="Download Lagu Ori By Axa Xyz">
+    <meta name="author" content="Axa Xyz">
+    <link rel="icon" href="assets/images/default-avatar.png">
+    <title>Download Lagu Gratis By Axa Xyz</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<style>
 		body {
@@ -46,7 +46,7 @@
                           </div>
                        <div style="margin-top:20px" class="form-group">
                              <button id="btn-login" type="submit" href="#" class="form-control btn btn-info">Cari Lagu Anda!</button>
-                       </div><hr><nav><ul class="pager" id="type" style="display:none;"><li><a id="single" href="#">Single</a></li><li><a id="artis" href="#">Artis</a></li><li><a id="album" href="#">Album</a></li></ul></nav><div id="salsakp"><i>DonlodLagoe</i> adalah layanan download lagu yang disediakan secara gratis untuk anda.Kami menyediakan lagu lagu original disini dengan bit rate sangat tinggi(320kpbs) jadi anda dapat mendengarkan lagunya dengan lancar tanpa takut kualitas musiknya memburuk ketika anda mengeraskan volumenya.Ada juga kualitas <i>TV Size</i> dengan bit rate normal(100kbps) dengan ukuran file lebih kecil dan sangat cocok bagi anda yang mendengarkan musik dengan volume sedang.Situs kami juga bebas dari iklan yang membuat anda semakin nyaman ketika menggunakannya</div><nav id="pagination" class="text-center" style="display:none;">
+                       </div><hr><nav><ul class="pager" id="type" style="display:none;"><li><a id="single" href="#">Single</a></li><li><a id="artis" href="#">Artis</a></li><li><a id="album" href="#">Album</a></li></ul></nav><div id="salsakp"><i>DownloadLagu</i> adalah layanan download lagu yang disediakan secara gratis oleh Axa Xyz untuk anda.Kami menyediakan lagu lagu original disini dengan bit rate sangat tinggi(320kpbs) jadi anda dapat mendengarkan lagunya dengan lancar tanpa takut kualitas musiknya memburuk ketika anda mengeraskan volumenya.Ada juga kualitas <i>TV Size</i> dengan bit rate normal(100kbps) dengan ukuran file lebih kecil dan sangat cocok bagi anda yang mendengarkan musik dengan volume sedang.Situs kami juga bebas dari iklan yang membuat anda semakin nyaman ketika menggunakannya</div><nav id="pagination" class="text-center" style="display:none;">
   <ul class="pagination">
     <li id="btn1" class="active" style="visibility:hidden;"><a href="#">1 <span class="sr-only">(current)</span></a></li>
     <li id="btn2" style="visibility:hidden;"><a href="#">2</a></li>
