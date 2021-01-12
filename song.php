@@ -67,10 +67,11 @@ if(!$_GET['id']){
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-		  <a href="#" class="navbar-brand">Download Lagu</a>        </div>
+		  <a href="https://jooxdowbyaxa.herokuapp.com/" class="navbar-brand">Download Lagu</a>        </div>
         <div id="navbar" class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="index.php"><i class="glyphicon glyphicon-home"></i> Index</a></li>
+            <li><a href="https://www.instagram.com/axaaxyz_01/"><i class="glyphicon glyphicon-heart"></i> Instagram</a></li>
 		  </ul>
 		</div>
       </div>
@@ -108,4 +109,4 @@ if(!$_GET['id']){
     <script src="assets/js/bootstrap.min.js"></script>
 	</body>
 </html>
-						
+					
