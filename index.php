@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Download Lagu Ori By Axa Xyz">
+    <meta name="description" content="Download Lagu Gratis - Axa Xyz">
     <meta name="author" content="Axa Xyz">
     <link rel="icon" href="assets/images/avatar.jpg">
     <title>Download Lagu Gratis By Axa Xyz</title>
@@ -64,7 +64,7 @@
 </nav>
 					</form>
                         </div>
-                        	<center>Copyright © 2021 Made with  by <a href="https://www.instagram.com/axaaxyz_01">Axa Xyz</b></a><br><br>
+                        	<center>Copyright © 2021 Made By <a href="https://www.instagram.com/axaaxyz_01">Axa Xyz</b></a><br><br>
 </center>                     
                     </div>  
         </div>
