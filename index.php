@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Download Lagu Ori By Axa Xyz">
     <meta name="author" content="Axa Xyz">
-    <link rel="icon" href="assets/images/default-avatar.png">
+    <link rel="icon" href="assets/images/avatar.jpg">
     <title>Download Lagu Gratis By Axa Xyz</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<style>
@@ -42,7 +42,7 @@
 						<p><label>Cari Lagu Disini</label></p>
                          <div style="margin-bottom: 20px" class="input-group">
                                 <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
-								<input type="text" name="q" id="q" placeholder="Locked Away" class="form-control" required="required">
+								<input type="text" name="q" id="q" placeholder="Cari lagu anda di sini" class="form-control" required="required">
                           </div>
                        <div style="margin-top:20px" class="form-group">
                              <button id="btn-login" type="submit" href="#" class="form-control btn btn-info">Cari Lagu Anda!</button>
