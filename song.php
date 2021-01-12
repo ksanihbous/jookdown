@@ -45,7 +45,7 @@ if(!$_GET['id']){
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Donlod Lagu Ori By Axa Xyz">
     <meta name="author" content="Anon">
-    <link rel="icon" href="assets/images/avatar.ico">
+    <link rel="icon" href="<?=$json->imgSrc?>">
     <title><?=$name?> - Donlod Lagu Gratis By Axa Xyz</title>
     <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 	<style>
