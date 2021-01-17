@@ -13,9 +13,9 @@ Just Recoded From Creator (Haqny)
 
 Copyright
 -------------
-1. Haqny (Creator of the Script)
+1. Ax (Creator of the Script)
 2. Me :v
 
 Demo Web?
 -------------
-https://jooxdownloader.herokuapp.com/
+https://jooxdowbyaxa.herokuapp.com/
